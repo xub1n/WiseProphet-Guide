@@ -1,12 +1,12 @@
-### [AI기반 CCTV 영상분석을 통한 실시간 도시침수 조기감지 및 서비스 기획]
+### [Koreatech WiseProphet 가이드북 제작]
 
-#### 💧 침수 피해를 미연에 방지하여 방지하여 도시침수 피해를 축소할 수 있는 조기 감지 서비스를 구축하는 프로젝트입니다.
+#### 🛠 코딩없이 머신러닝과 딥러닝을 활용해볼 수 있는 AutoML 플랫폼인 Koreatech WiseProphet의 가이드북 제작 프로젝트입니다.
 
-<img width="853" alt="스크린샷 2023-04-15 오후 7 37 10" src="https://user-images.githubusercontent.com/106679267/232209097-e826aa23-979e-41a8-80f4-f06818beae8f.png"><br></br>
+<img width="1015" alt="스크린샷 2023-05-02 오후 2 16 58" src="https://user-images.githubusercontent.com/106679267/235584598-9a179ae5-71ba-402e-ad24-72165a332025.png"><br></br>
 
 ### 목차
 ***
-* [💧 Insight](#-insight)
+* [🛠 AutoML 플랫폼과 KoreatechWiseProphet](#-automl-플랫폼과-koreatechwiseprophet)
   * [Why](#why)
   * [Insight](#insight)
 * [💧 How](#-how)
