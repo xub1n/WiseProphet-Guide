@@ -13,10 +13,11 @@
   * [Regression Model](#regression-model)
 * [🛠 Koreatech WiseProphet 프로세스와 주요 기능](#-koreatech-wiseprophet-프로세스와-주요-기능)
 * [🛠 Koreatech WiseProphet을 활용한 예제 데이터 분석](#-koreatech-wiseprophet을-활용한-예제-데이터-분석)
+  * [Clustering Model 중심으로](#clustering-model-중심으로)
+  * [Classification Model 중심으로](#classification-model-중심으로)
+  * [Regression Model 중심으로](#regression-model-중심으로)
 
-### 💧 Insight
-
-#### Why
+### 🛠 AutoML 플랫폼과 Koreatech WiseProphet
 ***
 2015년부터 2020년까지의 폭우 현황을 나타낸 그래프입니다.<br>
 해가 지날수록 인명피해가 증가하고, 이에 따른 복구비용과 피해비용 또한 꾸준히 증가하는 추세입니다.<br>
