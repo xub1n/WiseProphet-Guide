@@ -7,14 +7,12 @@
 ### 목차
 ***
 * [🛠 AutoML 플랫폼과 Koreatech WiseProphet](#-automl-플랫폼과-koreatech-wiseprophet)
-  * [Insight](#insight)
-* [💧 How](#-how)
-  * [Data & Targeting](#data--targeting)
-  * [Object Detection](#object-detection)
-  * [Segmentation](#segmentation)
-  * [Prediction](#prediction)
-* [💧 POC](#-poc)
-* [💧 Benefit](#-benefit)
+* [🛠 머신러닝 이론](#-머신러닝-이론)
+  * [Clustering Model](#clustering-model)
+  * [Classification Model](#classification-model)
+  * [Regression Model](#regression-model)
+* [🛠 Koreatech WiseProphet 프로세스와 주요 기능](#-koreatech-wiseprophet-프로세스와-주요-기능)
+* [🛠 Koreatech WiseProphet을 활용한 예제 데이터 분석](#-koreatech-wiseprophet을-활용한-예제-데이터-분석)
 
 ### 💧 Insight
 
