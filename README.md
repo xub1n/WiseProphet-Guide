@@ -6,7 +6,7 @@
 
 ### 목차
 ***
-* [🛠 AutoML 플랫폼과 Koreatech WiseProphet](#-%F0%9F%9B%A0-automl-%ED%94%8C%EB%9E%AB%ED%8F%BC%EA%B3%BC-koreatech-wiseprophet)
+* [🛠 AutoML 플랫폼과 Koreatech WiseProphet](#-automl-플랫폼과-koreatech-wiseprophet)
   * [Insight](#insight)
 * [💧 How](#-how)
   * [Data & Targeting](#data--targeting)
