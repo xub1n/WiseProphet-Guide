@@ -1,6 +1,6 @@
 ### [Koreatech WiseProphet 가이드북 제작]
 
-#### 🛠 코딩없이 머신러닝과 딥러닝을 활용해볼 수 있는 AutoML 플랫폼인 Koreatech WiseProphet의 가이드북 제작 프로젝트입니다.
+#### 🛠 AutoML 플랫폼인 Koreatech WiseProphet의 가이드북 제작 프로젝트입니다.
 
 <img width="1015" alt="스크린샷 2023-05-02 오후 2 16 58" src="https://user-images.githubusercontent.com/106679267/235584598-9a179ae5-71ba-402e-ad24-72165a332025.png"><br></br>
 
@@ -26,4 +26,6 @@
 
 * __Koreatech WiseProphet의 구성__<br>
 <img width="1013" alt="스크린샷 2023-05-05 오후 6 42 24" src="https://user-images.githubusercontent.com/106679267/236425755-3cf8c68f-e8c1-4aa4-a5d1-eff0d08e902a.png"><br></br>
+
+### 🛠 머신러닝 이론
 
