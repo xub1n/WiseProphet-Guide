@@ -15,7 +15,7 @@
 * [🛠 Koreatech WiseProphet을 활용한 예제 데이터 분석](#-koreatech-wiseprophet을-활용한-예제-데이터-분석)
   * [Clustering Model 중심으로](#clustering-model-중심으로)
   * [Classification Model 중심으로](#classification-model-중심으로)
-  * [Regression Model 중심으로](#regression-model-중심으로)
+  * [Regression Model 중심으로](#regression-model-중심으로)<br></br>
 
 ### 🛠 AutoML 플랫폼과 Koreatech WiseProphet
 ***
@@ -29,3 +29,25 @@
 
 ### 🛠 머신러닝 이론
 
+#### Clustering Model
+***
+Clustering Model의 개요, 활용 예시, 각각의 모델에 대한 내용을 담았습니다.<br></br>
+
+* __Clustering 모델 개요__<br>
+<img width="1017" alt="스크린샷 2023-05-08 오전 10 41 32" src="https://user-images.githubusercontent.com/106679267/236715760-99573e5e-d278-4e2c-b786-6944a7082802.png"><br></br>
+
+* __각각의 모델 설명__<br>
+<img width="1014" alt="스크린샷 2023-05-08 오전 10 44 19" src="https://user-images.githubusercontent.com/106679267/236715998-23884068-bc4c-4284-8cc8-ad0dbfee62c6.png"><br></br>
+
+#### Classification Model
+***
+Classification Model의 개요, 활용 예시, 각각의 모델에 대한 내용을 담았습니다.<br></br>
+
+* __Classification 모델 개요__<br>
+<img width="1014" alt="스크린샷 2023-05-08 오전 11 05 20" src="https://user-images.githubusercontent.com/106679267/236717961-62ce94a8-6490-4cd3-89ba-4e69b2001d14.png"><br></br>
+
+* __각각의 모델 설명__<br>
+<img width="1015" alt="스크린샷 2023-05-08 오전 11 09 22" src="https://user-images.githubusercontent.com/106679267/236718374-810d5fde-5ef4-439e-ad10-8a66208d5181.png"><br></br>
+
+#### Regression Model
+***
